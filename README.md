@@ -1,3 +1,11 @@
+# ⚠️ This repository has been archived
+
+Active development has moved to **[humphreysb/gasAndElectricTicker](https://github.com/humphreysb/gasAndElectricTicker)**.
+
+Please visit the active project there for the latest code, dashboards, and contributions.
+
+---
+
 # ⚡ Ohio Energy Tracker
 
 An autonomous data pipeline and interactive dashboard for tracking retail natural gas and electricity rates across Ohio. This project scrapes the official **Energy Choice Ohio** "Apples to Apples" marketplace daily to surface the most competitive, consumer-friendly plans.
